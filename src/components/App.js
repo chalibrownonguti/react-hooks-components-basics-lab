@@ -18,7 +18,7 @@ function Home() {
 
 function About(){
   return(
-    <div id ="about">Think <b>Twice</b> Code <b>Once</b></div>
+    <div id ="about">Kenya <b>Africa</b> Country <b>Once</b></div>
   );
 }
 
